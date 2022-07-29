@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 bool compare(int a, int b){
-    return a<=b;//for ascending
+    return a<=b;//for ascendingn
     //return a>=b; //for descending
 }
 int partition(int *a, int start, int end){
